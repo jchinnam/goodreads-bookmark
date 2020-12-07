@@ -1,2 +1,1 @@
-# goodreads-bookmark
-playing around with the goodreads api
+Built on the [Goodreads API](https://www.goodreads.com/api).
